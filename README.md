@@ -8,6 +8,7 @@ This code was developed and tested in the following settings.
 - Nvidia GeForce RTX 2080 Ti  
 ### Dependencies  
 - python (3.7.9)  
+- numpy (1.19.1)
 - pandas (1.1.3)  
 - pytorch (1.6.0)  
 - transformers (3.3.1)  
